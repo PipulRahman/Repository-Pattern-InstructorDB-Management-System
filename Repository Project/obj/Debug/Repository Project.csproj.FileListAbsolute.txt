@@ -1,0 +1,16 @@
+E:\CS_53\ID - 1272145\Repository Project\bin\Debug\Repository Project.exe.config
+E:\CS_53\ID - 1272145\Repository Project\bin\Debug\Repository Project.exe
+E:\CS_53\ID - 1272145\Repository Project\bin\Debug\Repository Project.pdb
+E:\CS_53\ID - 1272145\Repository Project\obj\Debug\Repository Project.csproj.AssemblyReference.cache
+E:\CS_53\ID - 1272145\Repository Project\obj\Debug\Repository Project.csproj.SuggestedBindingRedirects.cache
+E:\CS_53\ID - 1272145\Repository Project\obj\Debug\Repository Project.csproj.CoreCompileInputs.cache
+E:\CS_53\ID - 1272145\Repository Project\obj\Debug\Repository Project.exe
+E:\CS_53\ID - 1272145\Repository Project\obj\Debug\Repository Project.pdb
+E:\C#\Repository Project\bin\Debug\Repository Project.exe.config
+E:\C#\Repository Project\bin\Debug\Repository Project.exe
+E:\C#\Repository Project\bin\Debug\Repository Project.pdb
+E:\C#\Repository Project\obj\Debug\Repository Project.csproj.AssemblyReference.cache
+E:\C#\Repository Project\obj\Debug\Repository Project.csproj.SuggestedBindingRedirects.cache
+E:\C#\Repository Project\obj\Debug\Repository Project.csproj.CoreCompileInputs.cache
+E:\C#\Repository Project\obj\Debug\Repository Project.exe
+E:\C#\Repository Project\obj\Debug\Repository Project.pdb
